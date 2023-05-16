@@ -1,0 +1,82 @@
+{
+  "produits": [
+    {
+      "designation": "Eau De Parfum Chanel Blue De Chanel ",
+      "prixVente": "349 ",
+      "reference": "BLUE DE CHANEL",
+      "qtestock": "20",
+      "marque": " CHANEL",
+      "imageartpetitf": "https://www.lamode.tn/20956-large_default/eau-de-parfum-chanel-blue-de-chanel.jpg",
+      "id": 11
+    },
+    {
+      "prixVente": "339",
+      "qtestock": "30",
+      "designation": "Eau De Parfum DIOR SAUVAGE ",
+      "marque": "DIOR",
+      "imageartpetitf": "https://www.lamode.tn/20952-large_default/eau-de-parfum-dior-sauvage.jpg",
+      "reference": "SAUVAGE",
+      "id": 12
+    },
+    {
+      "marque": "Frank Olivier",
+      "prixVente": "Frank Olivier",
+      "qtestock": "10",
+      "reference": "OUD VANILLE 100ML",
+      "designation": "Eau de Parfum frank Olivier OUD VANILLE 100ML  Eau De Parfum Frank Olivier OUD VANILLE 100ML ",
+      "imageartpetitf": "https://www.lamode.tn/30914-large_default/eau-de-parfum-frank-olivier-oud-vanille-100ml.jpg",
+      "id": 13
+    },
+    {
+      "marque": "MAHASSEN",
+      "designation": "Fond De Teint MAHASSEN LIQUID HD ",
+      "reference": " LIQUID HD",
+      "prixVente": "59",
+      "imageartpetitf": "https://www.lamode.tn/25394-large_default/fond-de-teint-mahassen-liquid-hd.jpg",
+      "qtestock": "50",
+      "id": 15
+    },
+    {
+      "prixVente": "49 ",
+      "qtestock": "50",
+      "designation": "Palette Revolution Allure ",
+      "marque": "Revolution",
+      "reference": "ALLURE",
+      "imageartpetitf": "https://www.lamode.tn/21196-large_default/palette-revolution-allure.jpg",
+      "id": 16
+    },
+    {
+      "qtestock": "25",
+      "prixVente": "79",
+      "designation": "Shampooing KÉRASTASE BAIN EXTENTIONISTE ",
+      "marque": "KÉRASTASE ",
+      "reference": "BAIN EXTENTIONISTE",
+      "imageartpetitf": "https://www.lamode.tn/27343-large_default/shampooing-kerastase-bain-extentioniste.jpg",
+      "id": 17
+    },
+    {
+      "designation": "Coffret Eau De Parfum GIORGIO ARMANI ARMANI SI ",
+      "marque": "ARMANI",
+      "qtestock": "20",
+      "reference": "ARMANI SI",
+      "prixVente": "239",
+      "imageartpetitf": "https://www.lamode.tn/31701-large_default/coffret-eau-de-parfum-giorgio-armani-armani-si.jpg",
+      "id": 18
+    }
+  ],
+  "clients": [
+    {
+      "nom": "alin ",
+      "email": "alina@gmail.com",
+      "image": "https://st2.depositphotos.com/2703645/5669/v/450/depositphotos_56695433-stock-illustration-female-avatar.jpg",
+      "id": 5
+    },
+   
+    {
+      "nom": "taysir",
+      "email": "taysir@yahoo.fr",
+      "image": "https://formationepgv.com/wp-content/uploads/2020/11/avatar-femme-brune-300x300.png",
+      "id": 8
+    }
+  ]
+}
